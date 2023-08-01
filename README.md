@@ -8,8 +8,11 @@ Create tribute page of virat kohli using html
 
 #tags
 header - main title of document
+
 main -Contains the main content of the document
+
 section- Represents individual sections of content within the main content area.
+
 blockquote and script- embedded Twitter tweet of Virat Kohli, showing his tweet and link to the original tweet.
 
 iframe: This element represents an inline frame, which allows you to embed another HTML document within the current document.
