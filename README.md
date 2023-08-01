@@ -7,6 +7,8 @@ Create tribute page of virat kohli using html
 ![image](https://github.com/sanketmahadik191/Tribute_Assignment/assets/125791466/1cd6e112-6717-44ec-bbb1-cb5ef7c2e960)
 
 #tags
+<h3>semantic elements that can be used to define different parts of a web page<h3>
+
 header - main title of document
 
 main -Contains the main content of the document
